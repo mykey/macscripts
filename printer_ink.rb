@@ -11,23 +11,25 @@ data = Nokogiri::HTML(open(printer_url))
 
 # Get the different values for ink/messages/... and store them in variables
 
-black = data.css('tr:nth-child(3) .settingCategoryL11')
-magenta = data.css('tr:nth-child(4) .settingCategoryL11')
-yellow = data.css('tr:nth-child(5) .settingCategoryL11')
-cyan = data.css('tr:nth-child(6) .settingCategoryL11')
-# wastebottle =
-# transferunit =
-# fusingunit =
-# roller =
-# paper1 =
-# paperhand =
+# black = data.css('tr:nth-child(3) .settingCategoryL11')
+# magenta = data.css('tr:nth-child(4) .settingCategoryL11')
+# yellow = data.css('tr:nth-child(5) .settingCategoryL11')
+# cyan = data.css('tr:nth-child(6) .settingCategoryL11')
+# # wastebottle =
+# # transferunit =
+# # fusingunit =
+# # roller =
+# # paper1 =
+# # paperhand =
+#
+# # Display the gathered info
+#
+# # puts data
+# puts black
+# puts magenta
+# puts yellow
+# puts cyan
 
-# Display the gathered info
 
-# puts data
-puts black
-puts magenta
-puts yellow
-puts cyan
 
 # FUTURE periodicly store info in csv-file for charting printer usage

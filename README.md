@@ -5,7 +5,7 @@ Scripts I wrote, modified, adapted and/or collected for my Macbook Pro. I put so
 
 ### battery_cycles.sh
 
-A basic script to keep an eye on the number of cylces the battery has uncharged. I will update this with some sort of logging mechanism, so I can plot graphs over time.
+A basic script to keep an eye on the number of cylces the battery has uncharged. I will update this with some sort of logging mechanism, so I can plot graphs over time (with a cronjob).
 
 ### charge_remaining.sh
 

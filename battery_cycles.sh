@@ -5,9 +5,9 @@ cycles=$(system_profiler SPPowerDataType | grep "Cycle Count" | awk '{print $3}'
 
 # keuze icoontje - uitgecomment: voorbeeld icoontjes
 echo "🔋 $cycles"
-#echo "♾ $cycles"
-#echo "♽ $cycles"
-#echo "♾ $cycles"
+# echo "♾ $cycles"
+# echo "♽ $cycles"
+# echo "♾ $cycles"
 
 echo "---"
 
