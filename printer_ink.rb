@@ -1,5 +1,5 @@
 #!/usr/local/bin/ruby
-# Ruby script to check ink level from our corporate printer
+# Ruby script to check ink level from a certain RICOH printer
 
 require 'open-uri'
 require 'Nokogiri'
