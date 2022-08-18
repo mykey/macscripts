@@ -1,7 +1,9 @@
 # macscripts
 ## Scripts I wrote for my Macbook Pro
 
-Scripts I wrote, modified, adapted and/or collected for my Macbook Pro. I put some time in these scripts, but like everything in the UNIX-verse, I'm standing on the shoulders of giants here.
+Scripts I wrote, modified, adapted and/or collected for my Macbook Pro. I put some time in these scripts, but like everything in the UNIX-verse, I'm standing on the shoulders of giants here. 
+
+Probably defunct by now: I stopped owning a mac in 2018, so these scripts have probably stopped or will probably stop working and will need some adaptation. 
 
 ### battery_cycles.sh
 
